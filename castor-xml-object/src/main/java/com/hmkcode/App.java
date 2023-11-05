@@ -56,4 +56,8 @@ public class App
     	
     	return article;
     }
+    
+    public void printArticle() {
+    	System.out.print("Article!");
+    }
 }
